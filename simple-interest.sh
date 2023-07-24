@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# Dustin Howard
+# dhoward08
 
 # Input:
 # p, principal amount
